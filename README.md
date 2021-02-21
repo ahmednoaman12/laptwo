@@ -10,7 +10,10 @@ pip installer foobar
 ```sh
 pip installer foobar
 ```
-gk
+### USAGE
+····# code block
+····print '3 backticks or'
+····print 'indent 4 spaces'
 
 ## Contributing
 
