@@ -12,7 +12,8 @@ pip installer foobar
 ```
 ### USAGE
 ```
-# code block
+FOOBAR.OLURALIZE('WORD')  # return 'words'
+foobar.pluralizw ('goose')  # return 'geese'
 print '3 backticks or'
 print 'indent 4 spaces'
 ```
