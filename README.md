@@ -5,10 +5,19 @@ use the packae manager
 ```sh
 pip installer foobar
 ```  
-## usage
-```sh
-import  foobar
 
-foobar .pluralize('word') 
-``` 
+[facebook](http://facebook.com)
+```sh
+pip installer foobar
+```
+gk
+##contributing
+## Contributing
+
+pull request pull requestpull requestpull request
+pull requestpull request
+***
+## License
+
+[MIT](http://MIT.com)
 
