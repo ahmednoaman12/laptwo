@@ -11,4 +11,4 @@ import  foobar
 
 foobar .pluralize('word') 
 ``` 
-`--capt-add=SYS-ADMIN`
+
